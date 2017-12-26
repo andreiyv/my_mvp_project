@@ -1,4 +1,4 @@
-package ru.andreyv.my_mvp_project;
+package ru.andreyv.my_di_project;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

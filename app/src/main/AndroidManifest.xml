@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ru.andreyv.my_mvp_project">
+    package="ru.andreyv.my_di_project">
 
     <application
-        android:name="DI"
+        android:name="ru.andreyv.my_di_project.DI"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="ru.andreyv.my_di_project.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
