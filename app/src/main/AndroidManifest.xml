@@ -3,6 +3,7 @@
     package="ru.andreyv.my_mvp_project">
 
     <application
+        android:name="DI"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
